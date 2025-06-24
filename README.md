@@ -207,6 +207,43 @@ Here’s the corrected **Projects section** (copy-paste this directly into your 
 
 Let me know if you'd like this integrated with your full README content again!
 
+## 📜 Certifications
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <h4>🎓 Stanford Machine Learning Specialization</h4>
+      <p><i>Issued by Coursera</i></p>
+      <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Machine%20Learning%20Specialization.pdf?raw=true" width="90%" alt="Stanford ML Certificate" />
+      <br><br>
+      <a href="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Machine%20Learning%20Specialization.pdf">
+        <img src="https://img.shields.io/badge/View_Certificate-black?style=flat-square&logo=googledocs" />
+      </a>
+    </td>
+    
+    <td align="center" width="33%">
+      <h4>🧠 AWS ML Associate</h4>
+      <p><i>Issued by AWS</i></p>
+      <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/aws-certified-machine-learning-engineer-associate.png?raw=true" width="90%" alt="AWS ML Certificate" />
+      <br><br>
+      <a href="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/aws-certified-machine-learning-engineer-associate.png">
+        <img src="https://img.shields.io/badge/View_Certificate-black?style=flat-square&logo=amazonaws" />
+      </a>
+    </td>
+
+    <td align="center" width="33%">
+      <h4>🌐 Microsoft AI Skills Fest</h4>
+      <p><i>Issued by Microsoft</i></p>
+      <img src="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Microsoft-Learner-Badge-Guinness-World-Record-Holder.png?raw=true" width="90%" alt="Microsoft AI Fest Certificate" />
+      <br><br>
+      <a href="https://github.com/PoojithaAlam/Machine-Learning-Specialization-Assignments/blob/952c9cefa4d7715981942d93cd6b6f69716b1461/Certificates/Microsoft-Learner-Badge-Guinness-World-Record-Holder.png">
+        <img src="https://img.shields.io/badge/View_Certificate-black?style=flat-square&logo=microsoft" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+
 
 ---
 
